@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 ## Summary
-Summary of the idea
+Summary of the idea. 
 
 ## Design
-Technical design of the solution. 
+Technical design (if any) of the solution. 
 
 ## Resources
-Resources if any to implement the idea.
+Resources (if any) to implement the idea. Include any existing conversations/links that could be relevant.
